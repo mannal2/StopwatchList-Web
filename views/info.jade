@@ -1,0 +1,21 @@
+doctype html
+html
+    head
+        meta(charset='utf-8')
+        link(rel='stylesheet', href='info2.css')
+        title DB목록
+    body
+        h1 데이터베이스 목록 (게임한 순서)
+        table
+            tr
+                td 학번
+                td 이름
+                td 전화번호
+                td 시간
+                -for(var i = 0;i<data.length;i++)
+                    tr
+                        td=data[i].id
+                        td=data[i].name
+                        td=data[i].phone_number
+                        td=data[i].time
+                    

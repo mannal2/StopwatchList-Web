@@ -1,0 +1,21 @@
+doctype html
+html
+    head
+        meta(charset='utf-8')
+        link(rel='stylesheet', href='info2.css')
+        title 순위
+    body
+        h1#ra 현재 순위
+        table#rank
+            tr
+                td#a1 순위
+                td#a2 학번
+                td#a3 이름
+                td#a4 걸린시간(초)
+                -for(var i = 0;i<data.length;i++)
+                    tr
+                        td=i+1 + '등'
+                        td=data[i].id
+                        td=data[i].name
+                        td=data[i].time
+                    

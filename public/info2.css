@@ -1,0 +1,31 @@
+body{
+    background-color : #eeeeee;
+}
+table, td{
+    border:1px solid black;
+    border-collapse: separate;
+    font-size : 30px;
+}
+td{
+    width : 300px;
+    text-align: center;
+    height : 50px;
+}
+#ra{
+    text-align : center;
+}
+#rank{
+    margin : 0 auto;
+}
+#a1{
+    background-color : rgb(205, 226, 226);
+}
+#a2{
+    background-color : rgb(216, 240, 229);
+}
+#a3{
+    background-color : rgb(226, 236, 213);
+}
+#a4{
+    background-color : rgb(233, 238, 211);
+}
