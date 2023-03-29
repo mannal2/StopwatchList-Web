@@ -8,11 +8,13 @@
 ## 기능소개
 ### 메인화면 (/)
 사용자의 정보를 입력하고 시간을 측정함.
-![캡처1](https://user-images.githubusercontent.com/39849610/228470417-2d0b475d-f3bb-48a3-a210-fac0f144af66.PNG)
+
+<img width="50%" src="https://user-images.githubusercontent.com/39849610/228470417-2d0b475d-f3bb-48a3-a210-fac0f144af66.PNG">
 
 ### 유저목록 (/info)
 제출된 순서로 사용자들의 정보가 출력됨.
-![캡처2](https://user-images.githubusercontent.com/39849610/228470771-c9452c25-69c6-41cb-8876-88ad04df995b.PNG)
+
+<img width="50%" src="https://user-images.githubusercontent.com/39849610/228470771-c9452c25-69c6-41cb-8876-88ad04df995b.PNG">
 
 
 ## Tech Stack
